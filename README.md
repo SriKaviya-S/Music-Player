@@ -1,6 +1,7 @@
 🎵 Music Player Web Application
 
 A sleek, interactive, and fully functional web-based music player built using HTML, CSS, and JavaScript. This application allows users to play songs, navigate between tracks, and control the volume with a modern and user-friendly interface.
+
 🌟 Features
 
     Play/Pause Songs: Toggle between playing and pausing the music with a single click.
@@ -54,14 +55,14 @@ Navigate to the Project Directory:
 
 📷 Screenshots
 
-Desktop View
+🌟 Desktop View
 
 ![image](https://github.com/user-attachments/assets/59407617-9f12-4934-9b6e-2f4658a70c0c)
 
 Music Player
 https://github.com/user-attachments/assets/6b922301-7f32-452e-b4c0-f6cd3ef4ebb3
 
-Mobile View
+🌟 Mobile View
 
 ![image](https://github.com/user-attachments/assets/bc3005c1-ee9b-4332-8e21-02bae6cf0e7f)
 
